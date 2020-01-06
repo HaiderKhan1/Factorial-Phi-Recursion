@@ -1,0 +1,8 @@
+Phi:0         Fib:0
+
+Phi:1         Fib:1
+
+Phi:1         Fib:1
+
+Phi:2         Fib:2
+
